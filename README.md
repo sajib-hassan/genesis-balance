@@ -35,6 +35,8 @@ Current support:  OSX
 
 Outputs:
     - source.csv :  all the data from the Genesis Mining
+    - missing_dates.csv :  all missing mining output dates from the Genesis Mining
+    - result.csv :  all date-wise success and missing mining output data in a file   
     - payout.csv : analysed data.
 
 
