@@ -1,3 +1,5 @@
 source.csv
 payout.csv
 geckodriver.log
+/.idea/
+/venv/
